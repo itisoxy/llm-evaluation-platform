@@ -26,25 +26,6 @@ The platform is built around the type of judgement tasks used in:
 
 ---
 
-## Why This Project Matters
-
-As businesses adopt AI tools, they need reliable ways to test whether model outputs are useful, safe, and accurate.
-
-This project demonstrates an understanding of the evaluation layer behind AI systems, including how human reviewers can score responses and provide structured feedback.
-
-It is especially relevant for roles involving:
-
-- AI Trainer
-- AI Data Evaluator
-- LLM Response Evaluator
-- Prompt Evaluator
-- AI Quality Analyst
-- AI Product Assistant
-- Junior AI Engineer
-- AI Operations / Human-in-the-loop workflows
-
----
-
 ## Key Features
 
 - Compare multiple AI responses side by side
